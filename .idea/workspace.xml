@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eef6190c-6b4b-4cb2-bf98-6a91ebe9e070" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="156">
+                  <caret line="9" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="21" />
+                  <folding>
+                    <element signature="e#14#62#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/dragon.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="286">
+                  <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+                  <folding>
+                    <element signature="n#!!block;n#leftShift#0" />
+                    <element signature="n#!!block;n#prefixIsLessThan#0" />
+                    <element signature="n#!!block;n#rightShift#0" />
+                    <element signature="n#!!block;n#roundShortest#0" />
+                    <element signature="n#!!block;n#fmtF#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/extfloat.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="182">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="n#!!block;n#AssignComputeBounds#0" />
+                    <element signature="n#!!block;n#ShortestDecimal#0" />
+                    <element signature="n#!!block;n#Normalize#0" />
+                    <element signature="n#!!block;n#Multiply#0" />
+                    <element signature="n#!!block;n#frexp10#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/decimal.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="260">
+                  <caret line="10" selection-start-line="10" selection-end-line="10" />
+                  <folding>
+                    <element signature="n#!!block;n#shouldRoundUp#0" />
+                    <element signature="n#!!block;n#Round#0" />
+                    <element signature="n#!!block;n#RoundDown#0" />
+                    <element signature="n#!!block;n#RoundUp#0" />
+                    <element signature="n#!!block;n#Assign#0" />
+                    <element signature="n#!!block;n#trim#0" />
+                    <element signature="n#!!block;n#Shift#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/deprecated.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="52">
+                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/prec/op.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="182">
+                  <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/grisu.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="n#!!block;n#adjustLastDigit#0" />
+                    <element signature="n#!!block;n#frexp10Many#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/trans.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="130">
+                  <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+                  <folding>
+                    <element signature="n#!!block;n#atof64exact#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/op_test.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="338">
+                  <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="104">
+                  <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/trans.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="6838">
+                  <caret line="295" selection-start-line="295" selection-end-line="295" />
+                  <folding>
+                    <element signature="n#!!block;n#atof64exact#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/op_test.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1716">
+                  <caret line="68" column="21" selection-start-line="67" selection-start-column="4" selection-end-line="68" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/deprecated.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2106">
+                  <caret line="81" selection-start-line="81" selection-end-line="81" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>log</find>
+      <find>uint64pow</find>
+      <find>fmt.Pri</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file:///usr/local/Cellar/go/1.10.1" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/opfloat/ext.go" />
+        <option value="$PROJECT_DIR$/opfloat/prec.go" />
+        <option value="$PROJECT_DIR$/opfloat/round.go" />
+        <option value="$PROJECT_DIR$/opfloat/utils.go" />
+        <option value="$PROJECT_DIR$/opfloat/ato64.go" />
+        <option value="$PROJECT_DIR$/opfloat/dragon.go" />
+        <option value="$PROJECT_DIR$/opfloat/decimal.go" />
+        <option value="$PROJECT_DIR$/opfloat/grisu.go" />
+        <option value="$PROJECT_DIR$/opfloat/var.go" />
+        <option value="$PROJECT_DIR$/opfloat/extfloat.go" />
+        <option value="$PROJECT_DIR$/opfloat/depricated.go" />
+        <option value="$PROJECT_DIR$/opfloat/trans.go" />
+        <option value="$PROJECT_DIR$/opfloat/deprecated.go" />
+        <option value="$PROJECT_DIR$/opfloat/op.go" />
+        <option value="$PROJECT_DIR$/opfloat/op_test.go" />
+        <option value="$PROJECT_DIR$/prec/deprecated.go" />
+        <option value="$PROJECT_DIR$/prec/grisu.go" />
+        <option value="$PROJECT_DIR$/prec/op.go" />
+        <option value="$PROJECT_DIR$/prec/op_test.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="123" />
+    <option name="y" value="23" />
+    <option name="width" value="1355" />
+    <option name="height" value="869" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="precision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="precison" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="oynix.io/easyprecision" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="oynix.io/easyprecision" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BenchmarkSub in oynix.io/easyprecision/prec" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/prec" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="oynix.io/easyprecision/prec" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkSub$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAdd3 in oynix.io/easyprecision/opfloat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/opfloat" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="oynix.io/easyprecision/opfloat" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAdd3$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSub in oynix.io/easyprecision/opfloat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/opfloat" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="oynix.io/easyprecision/opfloat" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSub$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSub in oynix.io/easyprecision/prec" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/prec" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="oynix.io/easyprecision/prec" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSub$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="oynix.io/easyprecision" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestSub in oynix.io/easyprecision/prec" />
+        <item itemvalue="Go Test.BenchmarkSub in oynix.io/easyprecision/prec" />
+        <item itemvalue="Go Test.TestSub in oynix.io/easyprecision/opfloat" />
+        <item itemvalue="Go Test.TestAdd3 in oynix.io/easyprecision/opfloat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 01h 59m 33s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 01h 59m 51s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 03s.xml">
+      <configuration name="BenchmarkSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 27s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 34s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 40s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 43s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 51s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 54s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 01m 04s.xml">
+      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="123" y="23" width="1355" height="869" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2345773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3653061" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/go/src/strconv/itoa.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/math/unsafe.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strconv/decimal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="394" column="1" selection-start-line="334" selection-end-line="394" selection-end-column="1" />
+          <folding>
+            <element signature="e#2434#3216#0" />
+            <element signature="e#3786#8299#0" />
+            <element signature="e#9805#10138#0" />
+            <element signature="e#10307#10423#0" />
+            <element signature="e#10502#10564#0" />
+            <element signature="e#10639#10937#0" />
+            <element signature="e#11062#11298#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strconv/ftoa.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
+          <folding>
+            <element signature="e#4617#4863#0" />
+            <element signature="e#9290#10094#0" />
+            <element signature="e#10183#10649#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strconv/extfloat.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="261" column="19" selection-start-line="261" selection-start-column="19" selection-end-line="261" selection-end-column="19" />
+          <folding>
+            <element signature="e#999#5109#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strconv/atof.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="197" column="32" selection-start-line="197" selection-start-column="32" selection-end-line="197" selection-end-column="32" />
+          <folding>
+            <element signature="e#2321#2658#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opfloat/ato64.go" />
+    <entry file="file://$PROJECT_DIR$/prec/var.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="e#682#5195#0" />
+            <element signature="e#424#4534#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/utils.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/dragon.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!block;n#leftShift#0" />
+            <element signature="n#!!block;n#prefixIsLessThan#0" />
+            <element signature="n#!!block;n#rightShift#0" />
+            <element signature="n#!!block;n#roundShortest#0" />
+            <element signature="n#!!block;n#fmtF#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/extfloat.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!block;n#AssignComputeBounds#0" />
+            <element signature="n#!!block;n#ShortestDecimal#0" />
+            <element signature="n#!!block;n#Normalize#0" />
+            <element signature="n#!!block;n#Multiply#0" />
+            <element signature="n#!!block;n#frexp10#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/decimal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="n#!!block;n#shouldRoundUp#0" />
+            <element signature="n#!!block;n#Round#0" />
+            <element signature="n#!!block;n#RoundDown#0" />
+            <element signature="n#!!block;n#RoundUp#0" />
+            <element signature="n#!!block;n#Assign#0" />
+            <element signature="n#!!block;n#trim#0" />
+            <element signature="n#!!block;n#Shift#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/grisu.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#!!block;n#adjustLastDigit#0" />
+            <element signature="n#!!block;n#frexp10Many#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/op.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/trans.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6838">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+          <folding>
+            <element signature="n#!!block;n#atof64exact#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/op_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="68" column="21" selection-start-line="67" selection-start-column="4" selection-end-line="68" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/deprecated.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
