@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eef6190c-6b4b-4cb2-bf98-6a91ebe9e070" name="Default Changelist" comment="" />
+    <list default="true" id="eef6190c-6b4b-4cb2-bf98-6a91ebe9e070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prec/op_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/prec/op_test.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.31073877">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.go">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="156">
-                  <caret line="9" column="21" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#14#62#0" expanded="true" />
-                  </folding>
+                  <caret line="10" column="21" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -86,8 +88,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/prec/op.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="182">
-                  <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+                <state relative-caret-position="233">
+                  <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -120,8 +122,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/prec/op_test.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="338">
-                  <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+                <state relative-caret-position="104">
+                  <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -130,11 +132,23 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="104">
-                  <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <state relative-caret-position="313">
+                  <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#14#57#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="312">
+                  <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -154,8 +168,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/prec/op_test.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1716">
-                  <caret line="68" column="21" selection-start-line="67" selection-start-column="4" selection-end-line="68" selection-end-column="21" />
+                <state relative-caret-position="93">
+                  <caret line="6" selection-start-line="6" selection-end-line="6" />
                 </state>
               </provider>
             </entry>
@@ -165,6 +179,15 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="2106">
                   <caret line="81" selection-start-line="81" selection-end-line="81" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/prec/op.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -188,6 +211,9 @@
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -218,6 +244,7 @@
         <option value="$PROJECT_DIR$/prec/op.go" />
         <option value="$PROJECT_DIR$/prec/op_test.go" />
         <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -227,6 +254,7 @@
     <option name="width" value="1355" />
     <option name="height" value="869" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -238,7 +266,12 @@
           <expand>
             <path>
               <item name="precision" type="b2602c69:ProjectViewProjectNode" />
-              <item name="precison" type="462c0819:PsiDirectoryNode" />
+              <item name="precision" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="precision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="precision" type="462c0819:PsiDirectoryNode" />
+              <item name="prec" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,6 +324,17 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="BenchmarkAdd in oynix.io/precision/prec" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="precision" />
+      <working_directory value="$PROJECT_DIR$/prec" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="oynix.io/precision/prec" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^BenchmarkAdd$" />
+      <method v="2" />
+    </configuration>
     <configuration name="BenchmarkSub in oynix.io/easyprecision/prec" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="precision" />
       <working_directory value="$PROJECT_DIR$/prec" />
@@ -300,17 +344,6 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^BenchmarkSub$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestAdd3 in oynix.io/easyprecision/opfloat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="precision" />
-      <working_directory value="$PROJECT_DIR$/opfloat" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="oynix.io/easyprecision/opfloat" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestAdd3$" />
       <method v="2" />
     </configuration>
     <configuration name="TestSub in oynix.io/easyprecision/opfloat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -349,32 +382,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.BenchmarkAdd in oynix.io/precision/prec" />
         <item itemvalue="Go Test.TestSub in oynix.io/easyprecision/prec" />
         <item itemvalue="Go Test.BenchmarkSub in oynix.io/easyprecision/prec" />
         <item itemvalue="Go Test.TestSub in oynix.io/easyprecision/opfloat" />
-        <item itemvalue="Go Test.TestAdd3 in oynix.io/easyprecision/opfloat" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 01h 59m 33s.xml">
-      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 01h 59m 51s.xml">
-      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BenchmarkSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 03s.xml">
-      <configuration name="BenchmarkSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 27s.xml">
-      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 34s.xml">
-      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 40s.xml">
-      <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 00m 43s.xml">
       <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -387,16 +402,35 @@
     <history-entry file="TestSub_in_oynix_io_easyprecision_prec - 2019.01.13 at 02h 01m 04s.xml">
       <configuration name="TestSub in oynix.io/easyprecision/prec" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 13m 38s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 14m 48s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 15m 04s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 15m 11s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 15m 15s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BenchmarkAdd_in_oynix_io_precision_prec - 2019.01.13 at 02h 15m 30s.xml">
+      <configuration name="BenchmarkAdd in oynix.io/precision/prec" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="123" y="23" width="1355" height="869" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2345773" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23762377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3653061" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36422136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,7 +438,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32947233" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -556,20 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prec/op.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prec/trans.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6838">
@@ -580,17 +600,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prec/op_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="68" column="21" selection-start-line="67" selection-start-column="4" selection-end-line="68" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prec/deprecated.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/op_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prec/op.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -4,15 +4,6 @@ import (
 	"testing"
 )
 
-func TestAdd(t *testing.T) {
-	f := 0.0
-	b, i, i2 := float642Bytes(f)
-	t.Log(b, i, i2)
-}
-
-func TestAdd2(t *testing.T) {
-}
-
 func TestAdd3(t *testing.T) {
 	f1 := -21424.0173010901
 	t.Log("f1", f1)
@@ -34,31 +25,9 @@ func TestAdd4(t *testing.T) {
 
 func BenchmarkAdd(b *testing.B) {
 	for i := 0; i < b.N; i ++ {
-		f1 := 2424804242.242401313
-		f2 := 0.0
+		f1 := 12345.2
+		f2 := 23456.3
 		Add(f1, f2)
-	}
-}
-
-func BenchmarkAdd3(b *testing.B) {
-	for i := 0; i < b.N; i ++ {
-		f := 2249423528484742.2424
-		float642Uints(f)
-	}
-}
-
-func BenchmarkAdd4(b *testing.B) {
-	for i := 0; i < b.N; i ++ {
-		bytes2Float64(false, []byte{4, 3, 14}, []byte{8, 9, 3, 12})
-	}
-}
-
-func BenchmarkAdd5(b *testing.B) {
-	for i := 0; i < b.N; i ++ {
-		f := 224942.2424
-		f2 := 2424.248294
-		float642Uints(f)
-		float642Uints(f2)
 	}
 }
 

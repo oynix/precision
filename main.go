@@ -3,6 +3,7 @@ package main
 import (
 	"log"
 	"oynix.io/precision/prec"
+	"unsafe"
 )
 
 func main() {
@@ -16,4 +17,13 @@ func main() {
 	sub := prec.Sub(f3, f4)
 	log.Println(f3, "-", f4, "=", sub, "系统", f3-f4)
 
+	ft := float64(49807.242)
+	log.Printf("%f", ft*1000)
+
+	printF(0.99999)
+}
+
+func printF(f float64) {
+	i := (*uint64)(unsafe.Pointer(&f))
+	log.Printf("%v, %b", f+0.000001, i)
 }
